@@ -2,9 +2,8 @@
 
 ![Sachet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachetutekar&show_icons=true&theme=tokyonight&hide=stars,issues&show_icons=true)
 
-Connect with me🤝: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sachetutekar/)
+Connect with me🤝:  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sachetutekar/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png&color=white)  GitHub](https://github.com/sachetutekar)
 
 Show ❤️ by 🌟 my [repositories](https://github.com/sachetutekar?tab=repositories)!
 
