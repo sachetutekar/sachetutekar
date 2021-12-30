@@ -1,5 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+I'm Sachet Utekar, 2024 batch Undergraduate student focused in Computer Science from MUMBAI UNIVERSITY (9.80 CGPA). who is interested in Artificial Intelligence, Machine Learning, Data Science & Data Analytics. Preferred pronouns: He/Him/His 👩‍💻
+
 ![Sachet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachetutekar&show_icons=true&theme=tokyonight&hide=stars,issues&show_icons=true)
 
 Connect with me🤝:  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sachetutekar/)
