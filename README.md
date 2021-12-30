@@ -7,7 +7,7 @@ I'm Sachet Utekar, 2024 batch Undergraduate student focused in Computer Science 
 
 ## Medium Articles
 
- <a target="_blank" href="https://github-readme-medium-article.vercel.app/medium/@sachet.utekar/1"><img src="https://github-readme-medium-article.vercel.app/medium/@sachet.utekar/1" alt="Recent Article 1">
+ <a target="_blank" href="https://github-readme-medium-article.vercel.app/medium/@sachet.utekar/recognizing-handwritten-digits-with-scikit-learn-2c86d0de38ed"><img src="https://github-readme-medium-article.vercel.app/medium/@sachet.utekar/recognizing-handwritten-digits-with-scikit-learn-2c86d0de38ed" alt="Recent Article 1">
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2" alt="Recent Article 3">
 
