@@ -2,7 +2,11 @@
 
 I'm Sachet Utekar, 2024 batch Undergraduate student focused in Computer Science from MUMBAI UNIVERSITY (9.80 CGPA). who is interested in Artificial Intelligence, Machine Learning, Data Science & Data Analytics. Preferred pronouns: He/Him/His 👩‍💻
 
-[![IPSVIP](https://github-readme-stats.vercel.app/api/pin/?username=sachetutekar&repo=IPSVIP&show_owner=true)](https://github.com/sachetutekar/IPSVIP)
+<h2>🏆 Github Profile Trophy</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=sachetutekar&column=9&theme=gruvbox&no-frame=true"/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sachetutekar&theme=neon-palenight&hide_border=true)
+
 
 ![Sachet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachetutekar&show_icons=true&theme=tokyonight&hide=stars,issues&show_icons=true)
 
