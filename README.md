@@ -2,7 +2,7 @@
 
 ![Sachet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachetutekar&show_icons=true&theme=tokyonight&hide=stars,issues&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/sachetutekar/-IPSVIP/blob/main/README.md)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_title=IPSVIP&show_owner=True)](https://github.com/sachetutekar/-IPSVIP/blob/main/README.md)
 
 
 <!--
