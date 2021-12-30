@@ -5,12 +5,7 @@ I'm Sachet Utekar, 2024 batch Undergraduate student focused in Computer Science 
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=sachetutekar&column=9&theme=gruvbox&no-frame=true"/>
 
-## Medium Articles
-
- <a target="_blank" href="https://github-readme-medium-article.vercel.app/medium/@sachet.utekar/recognizing-handwritten-digits-with-scikit-learn-2c86d0de38ed"><img src="https://github-readme-medium-article.vercel.app/medium/@sachet.utekar/recognizing-handwritten-digits-with-scikit-learn-2c86d0de38ed" alt="Recent Article 1">
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2" alt="Recent Article 3">
-
+![](https://komarev.com/ghpvc/?username=sachetutekar)
 
 ![Sachet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachetutekar&show_icons=true&theme=tokyonight&hide=stars,issues&show_icons=true)
 
