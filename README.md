@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Sachet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachetutekar&show_icons=true&theme=tokyonight&hide=stars,issues)
+![Sachet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachetutekar&show_icons=true&theme=tokyonight&hide=stars,issues&show_icons=true)
 
 
 <!--
