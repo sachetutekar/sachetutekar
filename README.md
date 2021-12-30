@@ -4,7 +4,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&custom_title=IPSVIP&show_owner=True)](https://github.com/sachetutekar/-IPSVIP/blob/main/README.md)
 
-Connect with me🤝: [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/sachetutekar/)
+Connect with me🤝: [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]
+
 Show ❤️ by 🌟 my [repositories](https://github.com/sachetutekar?tab=repositories)!
 
 <!--
